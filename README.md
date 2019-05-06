@@ -1,4 +1,4 @@
-# Unity-Tut-Resources-Chapter-1
+# Unity Filmmaking Tutorial: Resources for chapter 1
 The resources you will need for the first chapter of our unity filmmaking series.
 Since this will be primarily a kitbashing course, credit where credit is due. Assets used in this tutorial series and accompanying short film provided by:
 
