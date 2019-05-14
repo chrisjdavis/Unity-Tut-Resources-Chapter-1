@@ -21,5 +21,11 @@ Since this will be primarily a kitbashing course, credit where credit is due. As
 * Mxk - https://sketchfab.com/Mxk
 * d880 - https://sketchfab.com/distance880
 * Fredrick Nolting - https://sketchfab.com/frednolting
+* Meee - https://sketchfab.com/Meee
+* Adipriatna - https://sketchfab.com/adipriatna
+* Star Conflict - https://sketchfab.com/star_conflict
+* Comrade1280 - https://sketchfab.com/comrade1280
+* cenobyte - https://sketchfab.com/cenobyte
+* Devin Spencer - https://sketchfab.com/IA51I
 
 Thanks for sharing your hard work friends!
