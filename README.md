@@ -27,5 +27,8 @@ Since this will be primarily a kitbashing course, credit where credit is due. As
 * Comrade1280 - https://sketchfab.com/comrade1280
 * cenobyte - https://sketchfab.com/cenobyte
 * Devin Spencer - https://sketchfab.com/IA51I
+* KBM7 - https://sketchfab.com/klaus5
+* ztrztr - https://sketchfab.com/ztrztr
+* osho - https://sketchfab.com/Crysis007-94
 
 Thanks for sharing your hard work friends!
